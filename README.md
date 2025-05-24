@@ -9,7 +9,7 @@ This machine learning project aims to predict whether a blood donor will donate 
 - 🎯 **Goal**: Predict future blood donations using logistic regression
 - 📁 **Dataset**: `transfusion.csv` (from UCI ML Repository)
 - 📓 **Notebook**:http://localhost:8888/lab/tree/GiveLife-BloodDonation-Prediction.ipynb
-- 📊 **Final Report**: *(GiveLife_Final_Report_Mehfil.pdf)*
+- 📊 **Final Report**: *(https://github.com/mehfilpalapra/GiveLife-Blood-Donation-Prediction/blob/main/GiveLife_Final_Report_Mehfil.pdf)*
 
 ---
 
