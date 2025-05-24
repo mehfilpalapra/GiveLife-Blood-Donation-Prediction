@@ -9,7 +9,7 @@ This machine learning project aims to predict whether a blood donor will donate 
 - 🎯 **Goal**: Predict future blood donations using logistic regression
 - 📁 **Dataset**: `transfusion.csv` (from UCI ML Repository)
 - 📓 **Notebook**:http://localhost:8888/lab/tree/GiveLife-BloodDonation-Prediction.ipynb
-- 📊 **Final Report**: *(to be uploaded soon)*
+- 📊 **Final Report**: *(GiveLife_Final_Report_Mehfil.pdf)*
 
 ---
 
@@ -68,6 +68,31 @@ This machine learning project aims to predict whether a blood donor will donate 
 | ROC AUC Score      | ~0.78     |
 | Best Predictor     | Frequency |
 | Model Used         | Logistic Regression |
+
+
+## 🧠 Project Outcome
+- Achieved **77.8% accuracy**
+- ROC AUC Score: **0.78**
+- Visualized donor behavior and modeled classification with insights
+
+## 📌 Report Summary
+The complete internship report includes:
+- Abstract, Dataset Overview, EDA
+- Model building and evaluation
+- Recommendations, visuals, ROC curve
+- 38+ page PDF professionally formatted and aligned with MedTourEasy's requirements
+
+---
+
+### 🔗 View Full Report:  
+[Click here to open final PDF](GiveLife_Final_Report_Mehfil.pdf)
+
+---
+
+## 🙌 Acknowledgment
+Thanks to **MedTourEasy** for the opportunity to work on a meaningful real-world healthcare data analytics project.
+
+
 
 ---
 
